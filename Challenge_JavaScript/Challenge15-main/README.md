@@ -1,0 +1,1 @@
+# This is a challenge 18, first javascript challenge.
