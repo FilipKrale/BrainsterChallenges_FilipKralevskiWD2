@@ -1,0 +1,25 @@
+<?php
+
+namespace Database\Seeders;
+
+
+use Illuminate\Database\Seeder;
+use Database\Seeders\TeamSeeder;
+use Database\Seeders\PlayerSeeder;
+
+class DatabaseSeeder extends Seeder
+{
+    /**
+     * Seed the application's database.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        $this->call([
+            TeamSeeder::class,
+            PlayerSeeder::class,
+            AdminSeeder::class
+        ]);
+    }
+}
