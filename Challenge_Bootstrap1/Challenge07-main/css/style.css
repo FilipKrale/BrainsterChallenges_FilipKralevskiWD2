@@ -1,0 +1,33 @@
+.banner {
+  padding-top: 56px;
+  background: linear-gradient(90deg, #000000 0%, white 0%, rgba(0, 0, 0, 0.60) 0%), url("../images/home.jpg") no-repeat center / cover ;
+  height: calc(100vh - 70px);
+  
+}
+
+span{
+  color: red;
+}
+
+.bg-blue{
+  background-color: #4900D5;
+}
+
+.bg-silver{
+  background-color: #393939;
+}
+
+img{
+  max-width: 100%;
+}
+
+.button-bg{
+  background-color: #007bff;
+}
+
+.section{
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+
