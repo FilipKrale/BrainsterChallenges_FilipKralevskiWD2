@@ -1,0 +1,5 @@
+username@example.com,Username=$2y$10$18Q3seRUuw/l7uMvmA5LpuaGUnKYXfBdgjr5LeZdckle5CM4Xy3NO
+kralevski96@gmail.com,Krale=$2y$10$RNh1mUrEt2FGN6/G3A6oQ.10XfARRFQibGV50tbx.Kb44m3nH7Q/y
+marija96@gmail.com,Marija=$2y$10$6nkWzEpK4tZ1oQX1077rseirXLcIIRcqAvrjBsfNM2Oykfdkvu6aK
+marija96@gmail.com,Marija=$2y$10$oIqw9VFRjbVOJmLegU5ZBu7x4J1TVl/JF.8r/03hl0sZGFHUcJgiO
+kralevski96@gmail.com,Krale=$2y$10$biQDgA0B1cQ5VfF/if2JAuMy3T8sjmq6WAsYvBUqlW1OQFwXPz4ia
