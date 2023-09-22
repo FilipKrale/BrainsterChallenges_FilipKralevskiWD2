@@ -1,0 +1,99 @@
+#race {
+  text-align: center;
+  background-color: #242021;
+}
+
+h1,
+h2,
+h3,
+div {
+  color: #a2a2a2;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+#race-track-wrapper {
+  position: relative;
+}
+
+#race-track {
+  display: block;
+  width: 100%;
+  height: 40rem;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.overlay {
+  position: absolute;
+  display: none;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: white;
+  font-size: 10rem;
+}
+
+.overlay.center{
+  display: grid;
+  place-items: center;
+}
+
+.row {
+  margin: 1rem 0;
+}
+
+.car {
+  position: absolute;
+  left: 0;
+}
+
+#car-one {
+  bottom: 0;
+  width: 250px;
+}
+#car-two {
+  top: 0;
+  width: 250px;
+}
+
+.result {
+  border: 2px solid white;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.car-one-results span {
+  color: #ffebf7;
+  font-weight: bold;
+}
+
+.car-two-results span {
+  color: #ba0000;
+  font-weight: bold;
+}
+
+/*use these below*/
+/*car1 color*/
+/*color: #ffebf7;*/
+
+/*car2 color*/
+/*color: #ba0000;*/
